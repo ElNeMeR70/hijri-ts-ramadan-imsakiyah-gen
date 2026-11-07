@@ -1,0 +1,11 @@
+{
+  "name": "hijri-ts-ramadan-imsakiyah-gen",
+  "version": "1.0.0",
+  "description": "Full 30-Day Ramadan Imsakiyah & Suhoor/Iftar Timetable Generator (مولد إمساكية شهر رمضان المبارك الفلكية لأي مدينة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
